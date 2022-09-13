@@ -1,4 +1,3 @@
-This looks like a Markdown file.Beautify Now!No, thanks.
 <div align="center">
   
 
